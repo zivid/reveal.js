@@ -43,3 +43,13 @@ $selectionColor: #fff;
 @mixin bodyBackground() {
 	background: $backgroundColor;
 }
+
+// Zivid extensions
+$subHeadingColor: $mainColor;
+$listStyleColor: $mainColor;
+$tableHeaderBackgroundColor: $backgroundColor;
+$tableHeaderColor: $mainColor;
+$tableCellBackgroundColor1: $backgroundColor;
+$tableCellBackgroundColor2: $backgroundColor;
+$tableBorderColor: $backgroundColor;
+$tableBorderPixels: 1px;
